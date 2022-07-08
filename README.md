@@ -24,7 +24,7 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://docs.google.com/presentation/d/1BLaaOTsGxDmNcAhg6pdx3hl9IvI8NErg8Oe5ceh83fw/edit?usp=sharing">Grav and Docsify Slides Placeholder</a>
 
 ##### Supplemental Materials | Week 1  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="http://infolab.stanford.edu/pub/papers/google.pdf">Elements of User Experience by Jesse James Garrett</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://infolab.stanford.edu/pub/papers/google.pdf">Elements of User Experience by Jesse James Garrett</a>
 
 ##### Downloads | Week 1
 [Course Overview](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Course%20Overview)  
