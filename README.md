@@ -36,7 +36,7 @@
 
 ## Week 2 (May 16 - 22)
 
-### What does a holistic user experience design process look like?
+### What is a holistic user experience design process?
 
 #### Summaries and Questions | Week 2   
 [May 16th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377743)
