@@ -15,7 +15,7 @@
 
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
-#### What is usability and user experience design?
+### What is usability and user experience design?
 
 ##### Summaries and Questions | Week 1  
 [May 9th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377751)
