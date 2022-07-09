@@ -67,6 +67,32 @@ ul {
   margin-left: -18px;
 }
 
+.banner-image {
+  width: 100%;
+  height: 125px;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
+@media (min-width: 576px) {
+  .banner-image {
+    height: 250px;
+  }
+}
+
+.banner-tall-image {
+  width: 100%;
+  height: 175px;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
+@media (min-width: 576px) {
+  .banner-tall-image {
+    height: 350px;
+  }
+}
+
 .video-container-4by3 {
   position: relative;
   padding-bottom: 75%;
