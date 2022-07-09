@@ -12,12 +12,6 @@
 > [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
 ## Week 1 (May 9 - 15)
-
- <div class="banner-image">
- 
-    ![UX - User Experience](images/12650723674_d5c85af332_k.jpg
- 
- </div>
  
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
