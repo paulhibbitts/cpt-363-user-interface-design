@@ -13,7 +13,7 @@
 
 ## Week 1 (May 9 - 15)
 
-<span class='banner-image'> ![UX - User Experience](images/12650723674_d5c85af332_k.jpg </span>
+<span class='banner-image'> ![UX - User Experience](images/12650723674_d5c85af332_k.jpg) </span>
 
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
