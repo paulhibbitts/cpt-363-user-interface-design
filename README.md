@@ -119,3 +119,5 @@ Fridays 12:00-1:00pm
 
 Suggestion, concern or complaint?  
 Send me your [anonymous course feedback](#)!
+
+📝 [Edit this Page](https://github.com/paulhibbitts/cpt-363-user-interface-design/edit/main/README.md)
