@@ -13,6 +13,10 @@
 
 ## Week 1 (May 9 - 15)
 
+ <div class="banner-image">
+    ![UX - User Experience](images/12650723674_d5c85af332_k.jpg
+ </div>
+ 
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
 ### What is usability and user experience design?
