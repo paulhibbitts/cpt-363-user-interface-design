@@ -9,11 +9,11 @@
 > ##### Required Reading
 > * [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)
 >
-> <a href="https://canvas.sfu.ca/courses/44038/quizzes/166553" class="button">Required Reading Quiz due Jun 4th</a>
+> [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
 ## Week 1 (May 9 - 15)
 
-<img src="images/12650723674_d5c85af332_k.jpg" class="banner-image" alt="UX - User Experience"/>
+![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
 ### What is usability and user experience design?
 
