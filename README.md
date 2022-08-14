@@ -87,10 +87,10 @@
 [May 30th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377745)
 
 #### Presented Slides | Week 4  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://docs.google.com/presentation/d/1BLaaOTsGxDmNcAhg6pdx3hl9IvI8NErg8Oe5ceh83fw/edit?usp=sharing">Grav and Docsify Slides Placeholder</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://docs.google.com/presentation/d/1BLaaOTsGxDmNcAhg6pdx3hl9IvI8NErg8Oe5ceh83fw/edit?usp=sharing">Grav and Docsify Slides Placeholder</a>
 
 #### Supplemental Materials | Week 4    
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/embed/MwidSAlbEB8">UI Sketching Conventions</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://www.youtube.com/embed/MwidSAlbEB8">UI Sketching Conventions</a>
 
 #### Downloads | Week 4  
 [4-UP BROWSERS + GRID](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Sketching%20Templates/sneakpeekit-4-browsers)  
