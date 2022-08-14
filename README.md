@@ -21,7 +21,7 @@
 [May 9th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377751)
 
 ##### Presented Slides | Week 1  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://docs.google.com/presentation/d/1BLaaOTsGxDmNcAhg6pdx3hl9IvI8NErg8Oe5ceh83fw/edit?usp=sharing">Grav and Docsify Slides Placeholder</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://docs.google.com/presentation/d/1BLaaOTsGxDmNcAhg6pdx3hl9IvI8NErg8Oe5ceh83fw/edit?usp=sharing">Grav and Docsify Slides Placeholder</a>
 
 ##### Supplemental Materials | Week 1  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf">Elements of User Experience by Jesse James Garrett</a>
