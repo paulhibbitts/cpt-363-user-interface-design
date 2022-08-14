@@ -24,13 +24,13 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://docs.google.com/presentation/d/1BLaaOTsGxDmNcAhg6pdx3hl9IvI8NErg8Oe5ceh83fw/edit?usp=sharing">Grav and Docsify Slides Placeholder</a>
 
 ##### Supplemental Materials | Week 1  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf">Elements of User Experience by Jesse James Garrett</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf">Elements of User Experience by Jesse James Garrett</a>
 
 ##### Downloads | Week 1
 [Course Overview](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Course%20Overview)  
 
 ##### Recommended Reading | Week 1  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/">Usability 101: Introduction to Usability</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/">Usability 101: Introduction to Usability</a>
 
 ![Flowchart](images/4853380320_492f9dce63_b.jpg ':class=banner-image')
 
@@ -42,7 +42,7 @@
 [May 16th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377743)
 
 #### Presented Slides | Week 2   
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://docs.google.com/presentation/d/1BLaaOTsGxDmNcAhg6pdx3hl9IvI8NErg8Oe5ceh83fw/edit?usp=sharing">Grav and Docsify Slides Placeholder</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://docs.google.com/presentation/d/1BLaaOTsGxDmNcAhg6pdx3hl9IvI8NErg8Oe5ceh83fw/edit?usp=sharing">Grav and Docsify Slides Placeholder</a>
 
 #### CPT-363 UX Design Process/Toolkit | Week 2
 ![UX Design Process/Toolkit](images/ux-toolkit-8-no-numbers.png)
@@ -54,7 +54,7 @@
 [Course Reflection Log](https://sso.canvaslms.com/courses/1413912/assignments/9519528)  
 
 #### Recommended Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b">The Evolution of UX Process Methodology</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b">The Evolution of UX Process Methodology</a>
 
 ## Week 3 (May 23 - 29)
 
@@ -66,10 +66,10 @@
 [May 23rd Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377744)
 
 #### Presented Slides | Week 3  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://docs.google.com/presentation/d/1BLaaOTsGxDmNcAhg6pdx3hl9IvI8NErg8Oe5ceh83fw/edit?usp=sharing">Grav and Docsify Slides Placeholder</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://docs.google.com/presentation/d/1BLaaOTsGxDmNcAhg6pdx3hl9IvI8NErg8Oe5ceh83fw/edit?usp=sharing">Grav and Docsify Slides Placeholder</a>
 
 #### Supplemental Materials | Week 3  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/embed/a40QYgO-_aM">Customer Journey Mapping</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://www.youtube.com/embed/a40QYgO-_aM">Customer Journey Mapping</a>
 
 #### Assignments | Week 3
 [Journey Map](https://sso.canvaslms.com/courses/1924881/assignments/14377756)  
