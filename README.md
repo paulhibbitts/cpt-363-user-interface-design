@@ -99,6 +99,15 @@
 #### Required Reading | Week 4    
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping</a>
 
+## Course Schedule
+
+|Date|Topic|
+|---|---|
+| May 9 - 15 | **What is usability and user experience design?** |
+| May 16 - 22 |  **What is a holistic user experience design process?** <br> [Course Reflection Log](https://sso.canvaslms.com/courses/1413912/assignments/9519528) |
+| May 23 - 30 | **How to make more strategic design decisions?** <br> [Journey Map](https://sso.canvaslms.com/courses/1924881/assignments/14377756) |
+| May 31 - Jun 7 | **How to explore the problem and design space?** |
+
 ## LMS Links
 
 [Calendar](https://canvas.sfu.ca/courses/44038/calendar)  
