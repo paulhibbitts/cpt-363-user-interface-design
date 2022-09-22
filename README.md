@@ -131,7 +131,7 @@
 :fas fa-book fa-fw: [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)  
 :fas fa-users fa-fw: In-class office hours (tentative)
 
-##  Resources
+## Resources
 
 ### Reflective Writing  
 *   [A short guide to reflective writing](https://intranet.birmingham.ac.uk/as/libraryservices/library/skills/asc/documents/public/Short-Guide-Reflective-Writing.pdf)
