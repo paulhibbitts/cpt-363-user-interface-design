@@ -11,7 +11,7 @@
 >
 > [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
-<hr>
+---
 
 ## Week 1 (May 9 - 15)
 
@@ -36,7 +36,7 @@
 
 ![Flowchart](images/4853380320_492f9dce63_b.jpg ':class=banner-image')
 
-<hr>
+---
 
 ## Week 2 (May 16 - 22)
 
@@ -60,7 +60,7 @@
 #### Recommended Reading  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b">The Evolution of UX Process Methodology</a>
 
-<hr>
+---
 
 ## Week 3 (May 23 - 29)
 
@@ -84,7 +84,7 @@
 #### Required Reading | Week 3  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.aytech.ca/blog/user-journey-map/">What is a User Journey Map?</a>
 
-<hr>
+---
 
 ## Week 4 (May 30 - Jun 5)
 
