@@ -73,6 +73,7 @@
 
 #### Assignments | Week 3
 [Journey Map](https://sso.canvaslms.com/courses/1924881/assignments/14377756)  
+[Informed Consent Materials](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Informed%20Consent)  
 
 #### Required Reading | Week 3  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.aytech.ca/blog/user-journey-map/">What is a User Journey Map?</a>
