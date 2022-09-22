@@ -11,6 +11,8 @@
 >
 > [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
+<hr>
+
 ## Week 1 (May 9 - 15)
 
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
@@ -34,6 +36,8 @@
 
 ![Flowchart](images/4853380320_492f9dce63_b.jpg ':class=banner-image')
 
+<hr>
+
 ## Week 2 (May 16 - 22)
 
 ### What is a holistic user experience design process?
@@ -56,6 +60,8 @@
 #### Recommended Reading  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b">The Evolution of UX Process Methodology</a>
 
+<hr>
+
 ## Week 3 (May 23 - 29)
 
 ![Bullseye](images/6384294717_5047a35d48_b.jpg ':class=banner-image')
@@ -77,6 +83,8 @@
 
 #### Required Reading | Week 3  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.aytech.ca/blog/user-journey-map/">What is a User Journey Map?</a>
+
+<hr>
 
 ## Week 4 (May 30 - Jun 5)
 
