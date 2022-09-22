@@ -108,6 +108,8 @@
 #### Required Reading | Week 4    
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping</a>
 
+---
+
 ## Schedule
 
 ### :fas fa-calendar fa-fw: Week 1 (May 9 - 15)
@@ -139,6 +141,8 @@
 :fas fa-desktop fa-fw: [Usability Testing](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
 :fas fa-book fa-fw: [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)  
 :fas fa-users fa-fw: In-class office hours (tentative)
+
+---
 
 ## Resources
 
@@ -205,6 +209,8 @@
 *   [NNgroup YouTube Channel](https://www.youtube.com/user/NNgroup/videos)  
 *   [UX Mastery YouTube Channel](https://www.youtube.com/channel/UCXmQyv8sAjmvgCCgvRKi9hw)
 
+---
+
 ## LMS Links
 
 [Calendar](https://canvas.sfu.ca/courses/44038/calendar)  
@@ -212,6 +218,8 @@
 [Quizzes](https://canvas.sfu.ca/courses/44038/quizzes)  
 [Class Discussions](https://canvas.sfu.ca/courses/44038/discussion_topics)  
 [Syllabus](https://canvas.sfu.ca/courses/44038/assignments/syllabus)  
+
+---
 
 ## Contact
 
