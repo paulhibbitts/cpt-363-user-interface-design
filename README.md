@@ -119,14 +119,14 @@
 
 ### <i class="fas fa-calendar fa-fw"></i> Week 2 (May 16 - 22)
 **What does a holistic user experience design process look like?**  
-:fas fa-keyboard fa-fw: [Course Reflection Log](https://sso.canvaslms.com/courses/1924881/assignments/14377752) <span class='badge'> Fri Aug 3rd 11:59pm PDT</span>  
+<i class="fas fa-keyboard fa-fw"></i> [Course Reflection Log](https://sso.canvaslms.com/courses/1924881/assignments/14377752) <span class='badge'> Fri Aug 3rd 11:59pm PDT</span>  
 <i class="fas fa-desktop fa-fw"></i> [The Process of UX Design](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
 <i class="fas fa-book fa-fw"></i> [The Evolution of UX Process Methodology](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b)  
 
 ### <i class="fas fa-calendar fa-fw"></i> Week 3 (May 23 - 29)
 **How to make more strategic design decisions?**  
-:fas fa-keyboard fa-fw: [Journey Map](https://sso.canvaslms.com/courses/1924881/assignments/14377756) <span class='badge'> Tue Jun 12th 11:59pm PDT</span>  
-:fas fa-folder fa-fw: [Informed Consent Materials](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Informed%20Consent)  
+<i class="fas fa-keyboard fa-fw"></i> [Journey Map](https://sso.canvaslms.com/courses/1924881/assignments/14377756) <span class='badge'> Tue Jun 12th 11:59pm PDT</span>  
+<i class="fas fa-folder fa-fw"></i> [Informed Consent Materials](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Informed%20Consent)  
 <i class="fas fa-desktop fa-fw"></i> [Strategic UX Design](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
 <i class="fas fa-book fa-fw"></i> [What is a User Journey Map?](https://www.aytech.ca/blog/user-journey-map/)  
 
@@ -134,13 +134,13 @@
 **How to explore the problem space?**  
 <i class="fas fa-desktop fa-fw"></i> [Prototyping](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
 <i class="fas fa-book fa-fw"></i> [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)  
-:fas fa-users fa-fw: In-class office hours (tentative)  
+<i class="fas fa-users fa-fw"></i> In-class office hours (tentative)  
 
 ### <i class="fas fa-calendar fa-fw"></i> Week 5 (Jun 6 - 12)
 **How to plan, conduct, and summarize usability tests?**  
 <i class="fas fa-desktop fa-fw"></i> [Usability Testing](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
 <i class="fas fa-book fa-fw"></i> [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)  
-:fas fa-users fa-fw: In-class office hours (tentative)
+<i class="fas fa-users fa-fw"></i> In-class office hours (tentative)
 
 ---
 
